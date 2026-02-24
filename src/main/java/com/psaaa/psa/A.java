@@ -2,5 +2,5 @@ package com.psaaa.psa;
 
 public class A {
 
-  int x=100;
+  int x=1000;
 }
